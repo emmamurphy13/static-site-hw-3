@@ -9,7 +9,7 @@
   import RelatedLinks from '$lib/components/RelatedLinks.svelte';
 
   // Article metadata
-  let headline = 'Coding The News!!!!.';
+  let headline = 'Coding The News!!!!';
   let byline = 'NYCity News Service';
   let pubDate = '2026-01-31';
 
